@@ -13,3 +13,5 @@ Analyzes the 2023 World Happiness Report dataset to explore happiness factors ac
 - **Correlations**: Higher GDP, social support → higher happiness scores[file:1]
 
 ## Usage
+pip install -r requirements.txt
+python src/analyze_happiness.py
